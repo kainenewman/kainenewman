@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @kainenewman
-- 👀 I’m interested in Python,JavaScript, Typescript, Kotlin,Go!
-- 🌱 I’m currently learning Fullstack Engineering.
-- 💞️ I’m looking to collaborate on Artificial Intellegence and Machine Learning projects.
-- 📫 How to reach me ...: Kaine Newman: Function :((Hello World)):
+- 👋 Hello world, I’m @kainenewman
 
-<!---
-kainenewman/kainenewman is a ✨ special ✨ repository.
-Feel free to reach out!
---->
+- 👀 I’m interested in Python, JavaScript, Kotlin and Go! (OH and a little rust ;)
+
+- 🌱 I’m currently learning Fullstack Software Engineering.
+
+- 💞️ I’m looking to collaborate on Artificial Intellegence and Machine Learning projects.
+
+- 📫 Reach me @Kaine Newman: Function :((Hello World))
+
+  kainenewman/kainenewman is a ✨ special ✨ repository.
