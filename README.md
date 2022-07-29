@@ -1,6 +1,6 @@
 - 👋 Hello world, I’m @kainenewman
 
-- 👀 I’m interested in Python, JavaScript, Kotlin and Go! (OH and a little rust ;)
+- 👀 I’m interested in Python, JavaScript, Kotlin and Go! (Oh and a little rust ;)
 
 - 🌱 I’m currently learning Fullstack Software Engineering.
 
