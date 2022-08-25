@@ -10,8 +10,8 @@
 
 - My first lines of code below: How did I do?
 
-// the helllo world program
+  // the helllo world program
 
-console.log('Hello World');
-alert ("Hello, World!");
-document.write('Hello, World!');
+  console.log('Hello World');
+  alert ("Hello, World!");
+  document.write('Hello, World!');
