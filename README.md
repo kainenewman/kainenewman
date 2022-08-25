@@ -1,11 +1,17 @@
 - 👋 Hello world, I’m @kainenewman
 
-- 👀 I’m interested in Python, JavaScript, Kotlin and Go! (Oh and a little rust ;)
+- 👀 I’m currently learning Fullstack Software Engineering.
 
-- 🌱 I’m currently learning Fullstack Software Engineering.
+- 🌱 I’m interested in Python, JavaScript, Kotlin and Go! (Oh and a little rust ;)
 
-- 💞️ I’m looking to collaborate on Artificial Intellegence and Machine Learning projects.
+- 💞️ I’m looking to collaborate on full software developlemt life-cycle and Machine Learning projects.
 
-- 📫 Reach me @Kaine Newman: Function :((Hello World))
+- 📫 Reach me @KaineNewman everywhere :)
 
-  kainenewman/kainenewman is a ✨ special ✨ repository.
+- My first lines of code below: How did I do?
+
+// the helllo world program
+
+console.log('Hello World');
+alert ("Hello, World!");
+document.write('Hello, World!');
