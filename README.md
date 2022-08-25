@@ -9,6 +9,9 @@
 - 📫 Reach me @KaineNewman everywhere :)
 
 - My first lines of code below: How did I do?
+
 console.log('Hello World');
+
 console.log('Hello World');
+
 console.log('Hello World');
