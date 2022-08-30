@@ -4,7 +4,7 @@
 
 - 🌱 I’m interested in Python, JavaScript, Kotlin and Go! (Oh and a little rust ;)
 
-- 💞️ I’m looking to collaborate on full software developlemt life-cycle and Machine Learning projects.
+- 💞️ I’m looking to learn the full software developlemt life-cycle.
 
 - 📫 Reach me @KaineNewman everywhere :)
 
