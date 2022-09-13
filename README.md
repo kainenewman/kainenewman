@@ -22,8 +22,6 @@
 
 - 💭 console.log('Hello World');
 
-[![kainenewman GitHub stats](https://github-readme-stats.vercel.app/api?username=kainenewman-io&show_icons=true&theme=dark))](https://github.com/kainenewman/github-readme-stats)
-
 ![rand](https://rand-xyz.now.sh/api/hello)
 <!-- 
 <!--
