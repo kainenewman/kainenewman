@@ -22,4 +22,13 @@
 
 - 💭 console.log('Hello World');
 
-yycoder's github stats
+
+417
+Total Contributions
+Aug 28, 2012 - Present
+0
+Current Streak
+Sep 13
+18
+Longest Streak
+Oct 30, 2014 - Nov 16, 201
