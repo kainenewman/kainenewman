@@ -21,6 +21,13 @@
 - 🔨 My first line of code below: How did I do?
 
 - 💭 console.log('Hello World');
+### :zap: GitHub Stats
+  <table>
+    <tr>
+        <td><img width="340px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocdias&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="406px" align="center" src="https://github-readme-stats.vercel.app/api?username=augustocdias&hide=html&layout=full&theme=dark"/></td>
+    </tr>   
+  </table>
 
 ![rand](https://rand-xyz.now.sh/api/hello)
 <!-- 
