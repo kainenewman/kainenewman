@@ -24,8 +24,8 @@
 ### :zap: GitHub Stats
   <table>
     <tr>
-        <td><img width="340px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocdias&hide=html&layout=compact&theme=dark" /></td>
-        <td><img width="406px" align="center" src="https://github-readme-stats.vercel.app/api?username=augustocdias&hide=html&layout=full&theme=dark"/></td>
+        <td><img width="340px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainenewman&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="406px" align="center" src="https://github-readme-stats.vercel.app/api?username=kainenewman&hide=html&layout=full&theme=dark"/></td>
     </tr>   
   </table>
 
