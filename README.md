@@ -22,8 +22,6 @@
 
 - 💭 console.log('Hello World');
 
-https://api.daily.dev/devcards/83c0484c90df4e99a97d69319d2b2431.png?r=5d5
-
 ### :zap: GitHub Stats
   <table>
     <tr>
@@ -37,3 +35,4 @@ https://api.daily.dev/devcards/83c0484c90df4e99a97d69319d2b2431.png?r=5d5
 <!--
 ### :zap: GitHub Stats
 
+<a href="https://app.daily.dev/kainenewman"><img src="https://api.daily.dev/devcards/83c0484c90df4e99a97d69319d2b2431.png?r=jee" width="400" alt="Kaine Newman's Dev Card"/></a>
