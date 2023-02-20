@@ -21,6 +21,9 @@
 - 🔨 My first line of code below: How did I do?
 
 - 💭 console.log('Hello World');
+
+https://api.daily.dev/devcards/83c0484c90df4e99a97d69319d2b2431.png?r=5d5
+
 ### :zap: GitHub Stats
   <table>
     <tr>
@@ -33,4 +36,4 @@
 <!-- 
 <!--
 ### :zap: GitHub Stats
-https://api.daily.dev/devcards/83c0484c90df4e99a97d69319d2b2431.png?r=5d5
+
