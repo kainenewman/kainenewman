@@ -3,7 +3,7 @@
 
 
 
-<a href="https://app.daily.dev/kainenewman"><img src="https://api.daily.dev/devcards/83c0484c90df4e99a97d69319d2b2431.png?r=3gm" width="400" alt="Kaine Newman's Dev Card"/></a>
+
 
 
 
@@ -35,3 +35,4 @@
 <!--
 ### :zap: GitHub Stats
 
+<a href="https://app.daily.dev/kainenewman"><img src="https://api.daily.dev/devcards/83c0484c90df4e99a97d69319d2b2431.png?r=3gm" width="400" alt="Kaine Newman's Dev Card"/></a>
