@@ -12,9 +12,7 @@
 
 - 👀 I’m currently learning Fullstack Software Engineering.
 
-- 🌱 I’m interested in Python and Javascript (Oh and a little rust ;)
-
-- 💞️ I’m looking to learn the full software developlemt life-cycle.
+- 🌱 I’m interested in Python, Javascript oh and a little rust
 
 - 📫 Reach me @KaineNewman everywhere :)
 
