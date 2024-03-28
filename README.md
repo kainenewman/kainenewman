@@ -10,9 +10,9 @@
 
 - 👋 Hello world, I’m @kainenewman
 
-- 👀 I’m currently learning Fullstack Software Engineering.
+- 👀 I’m currently learning Blockchain Engineering.
 
-- 🌱 I’m interested in Python, Javascript oh and a little rust
+- 🌱 I’m interested in Rust, Golang and EVM technologies.
 
 - 📫 Reach me @KaineNewman everywhere :)
 
