@@ -12,7 +12,7 @@
 
 - 👀 I’m currently learning Blockchain Engineering.
 
-- 🌱 I’m interested in Rust, Golang and EVM technologies.
+- 🌱 I’m interested in Rust and Distributed Systems!
 
 - 📫 Reach me @KaineNewman everywhere :)
 
